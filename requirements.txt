@@ -3,3 +3,5 @@ altair==4.2.2
 joblib
 nltk
 scikit-learn
+pandas
+numpy
